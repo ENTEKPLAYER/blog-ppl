@@ -31,6 +31,9 @@ Tim kami menggunakan azure devops yang disediakan oleh client untuk memudahkan k
 
 Di azure devops kita dapat menambah backlog, task, dll dengan mudah.
 
+![devopstasks](/img/img11.png)
+
+
 ## 2. CI/CD
 Link CI/CD yang saya setup: https://gitlab.com/alin.fathul.ilmi/tugas-deployment-ppl
 
