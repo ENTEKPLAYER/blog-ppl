@@ -21,7 +21,8 @@ Scrum Master adalah yang memastikan semua event Scrum jalan dan membantu Product
 
 ### 1.3 Events
 Sprint Planning, Sprint, Daily Scrum, Review, Retrospective.
-todo: Jelasin di PPL nya kapan dan berapa lama.
+
+Di PPL Sprint Planning 2:30 jam, Sprint 5 jam per task, Daily Scrum minimal 2 kali per minggu.
 
 ### 1.4 Konfigurasi Scrum Tim Kami
 Tim kami menggunakan azure devops yang disediakan oleh client untuk memudahkan kami menjalankan Scrum framework.
@@ -49,5 +50,6 @@ Di branch development, saya setup CI/CD dengan pipelines build dan test, build a
 
 Pada branch Staging, pipelines ditambahkan stage Publish dan Deploy. Publish digunakan untuk membuat docker image dan menaruhnya di dockerhub. Stage Deploy digunakan untuk mengambil image yang sudah ditaruh di dockerhub tadi lalu jalankan di server GCP.
 
+![hasil pipeline branch staging](/img/img3.png)
 
 ## 3. Framework
