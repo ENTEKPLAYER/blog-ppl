@@ -53,3 +53,6 @@ Pada branch Staging, pipelines ditambahkan stage Publish dan Deploy. Publish dig
 ![hasil pipeline branch staging](/img/img3.png)
 
 ## 3. Framework
+Setelah melewati pipeline CI/CD template kode yang saya buat tadi harusnya sudah running di server dan dapat diakses dari mana saja. Templatenya ini juga sudah saya connect ke database provider supabase.com akses ke database dibantu menggunakan JDBC API.
+
+![hasil deploy branch staging](/img/img4.png)
