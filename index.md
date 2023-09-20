@@ -87,3 +87,19 @@ Di stage deploy, saya connect ke server GCP dengan ssh. SSH key saya taruh di CI
 Setelah melewati pipeline CI/CD template kode yang saya buat tadi harusnya sudah running di server dan dapat diakses dari mana saja. Templatenya ini juga sudah saya connect ke database provider supabase.com akses ke database dibantu menggunakan JDBC API.
 
 ![hasil deploy branch staging](/img/img4.png)
+
+Untuk template framework tim, saya menggunakan Nuxt.js sesuai yang sudah didiskusikan. Untuk setup Nuxt.js pertama saya harus install Node js v16.10.0 keatas.
+
+![hasil instalasi node](/img/img15.png)
+
+Setelah install run command: npx nuxi@latest init <project-name>
+
+![setup projek](/img/img12.png)
+
+Setelah install tinggal change directory ke project-name yang dipilih dan jalankan: npm run dev.
+
+![running](/img/img13.png)
+![running](/img/img14.png)
+
+
+
