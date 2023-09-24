@@ -14,4 +14,9 @@ Sebelum dapat membuat webpage registrasi, saya setup dulu development environmen
 
 ![clone](/img_2/clone.png)
 
-Saya pastikan projek dapat run di local dengan menjalankan command: `npm install` lalu jalankan `npm run dev`
+Saya pastikan projek dapat run di local dengan menjalankan command: `npm install` lalu jalankan `npm run dev`.
+
+![running](/img_2/running.png)
+
+Setelah dipastikan projek dapat running, saya install plugins yang dipakai di KP.
+
