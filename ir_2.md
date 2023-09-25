@@ -35,7 +35,6 @@ Setelah buat component, saya tinggal add saja ke pages saya.
 
 ![running](/img_2/page.png)
 
-
 ![running](/img_2/hasil.png)
 
 
