@@ -40,6 +40,6 @@ Dan berikut hasilnya:
 
 ![hasil](/img_2/hasil.png)
 
-Link repo KP: https://dev.azure.com/klinikpintar/Klinik%20OS/_git/kiosk-webapp?version=GBorigin%2Ffeat%2Fform-registrasi-pasien-baru
-
+Link repo task di KP: [Link](https://dev.azure.com/klinikpintar/Klinik%20OS/_git/kiosk-webapp?version=GBorigin%2Ffeat%2Fform-registrasi-pasien-baru
+)
 
