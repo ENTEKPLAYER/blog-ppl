@@ -24,6 +24,8 @@ Setelah dipastikan projek dapat running, saya install vuetify plugin.
 
 ![vuetify_nuxt](/img_2/vuetify_nuxt.png)
 
+### 1.2 Pembuatan webpage
+
 Setelah install, saya buat component-component yang diperlukan. Saya memakai component button dan input yang sudah ada dari KP. 
 
 ![component](/img_2/component.png)
