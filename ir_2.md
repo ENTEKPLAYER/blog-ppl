@@ -36,6 +36,8 @@ Setelah buat component, saya tinggal add saja ke pages saya.
 
 ![page](/img_2/page.png)
 
+Dan berikut hasilnya:
+
 ![hasil](/img_2/hasil.png)
 
 
