@@ -4,6 +4,8 @@ Di week 3 ini saya lanjutkan task yang kemarin yaitu buat form registrasi pasien
 
 ![tracking](/img_3/tracking.png)
 
+Dengan menggunakan fitur task board di azure devOps, saya dapat melihat progress kelompok dan saya juga dapat menyampaikan progress saya dengan mudah.  
+
 ## Nuxt component
 
 Untuk menerapkan reusability dan abstraksi dalam OOP, kelompok saya menggunakan Nuxt component untuk membuat pages. Nuxt component memungkinkan suatu kode HTML, css atau js digunakan berulang ulang dan dapat di abstraksi dari halaman utama. Contohnya pada pembuatan popup gagal dan popup berhasil, saya menggunakan component Dialog yang didapat dari plugin headlessui, saya tinggal memakai saja komponent ini tanpa mengetahui cara kerjanya dan saya bisa memakainya sebanyak 3 kali untuk menampilkan popup yang berbeda-beda.
