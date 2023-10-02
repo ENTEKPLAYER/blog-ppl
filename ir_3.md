@@ -6,7 +6,7 @@ Di week 3 ini saya lanjutkan task yang kemarin yaitu buat form registrasi pasien
 
 Dengan menggunakan fitur task board di azure devOps, saya dapat melihat progress kelompok dan saya juga dapat menyampaikan progress saya dengan mudah. Ini menurut saya dapat meningkatkan effisiensi penggerjaan team.
 
-Tetapi menurut saya fitur yang paling meningkatkan effisiensi adalah adanya git repository proyek. Git memiliki banyak fitur yang dapat memanage proyek yang berkelompok, seperti adanya fitur branching, branching memungkinkan kelompok bekerja di berbagai environment berbeda seperti adanya branch development yang digunakan untuk pembuatan fitur yang belum di release, staging digunakan untuk menyatukan branch development untuk pengetesan, dan branch production yang digunakan untuk merelease proyek. 
+Tetapi menurut saya fitur yang paling meningkatkan effisiensi adalah git repository. Git memiliki banyak fitur yang dapat memanage proyek yang berkelompok, seperti adanya fitur branching, branching memungkinkan kelompok bekerja di berbagai environment berbeda seperti adanya branch development yang digunakan untuk pembuatan fitur yang belum di release, staging digunakan untuk menyatukan branch development untuk pengetesan, dan branch production yang digunakan untuk merelease proyek. 
 
 Selain branching ada juga fitur pull request dan merging, pull request memudahkan kelompok untuk melakukan review code sebelum code di merge atau digabungkan, sedangkan merging digunakan untuk mengabungkan kode secara automatis dan dapat mendeteksi error saat pengabungan kode.
 
